@@ -104,3 +104,4 @@ docker run -p 3001:3001 --env-file .env carenest-auth-service
 The Dockerfile uses a multi-stage build:
 1. **Builder stage**: `node:20-alpine` — installs production dependencies
 2. **Production stage**: `node:20-alpine` — runs as non-root `appuser`
+# Pipeline Test Sat Apr 25 08:20:26 UTC 2026

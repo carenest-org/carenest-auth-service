@@ -105,3 +105,4 @@ The Dockerfile uses a multi-stage build:
 1. **Builder stage**: `node:20-alpine` — installs production dependencies
 2. **Production stage**: `node:20-alpine` — runs as non-root `appuser`
 # Pipeline Test Sat Apr 25 08:20:26 UTC 2026
+# retriggering pipeline Sat Apr 25 09:43:28 UTC 2026

@@ -109,3 +109,4 @@ The Dockerfile uses a multi-stage build:
 # fix deploy needs Sat Apr 25 10:42:07 UTC 2026
 # elastic ip test Sat Apr 25 16:03:00 UTC 2026
 # blue-green test Sat Apr 25 18:42:35 UTC 2026
+# sonarqube ip update Sat Apr 25 18:50:42 UTC 2026
